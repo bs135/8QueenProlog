@@ -39,5 +39,5 @@ noattack(Y, [Y1 | Ylist], Xdist):-
 	Dist1 is Xdist +1, noattack(Y, Ylist, Dist1).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  Truy van:
+%  Query syntax:
 %  ?- solution([Y1,Y2,Y3,Y4,Y5,Y6,Y7,Y8]).

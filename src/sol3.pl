@@ -26,5 +26,5 @@ del(Item, [First| List], [First| List1]):-
 	del(Item, List, List1).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  Truy van:
+%  Query syntax:
 %  ?- solution([Y1,Y2,Y3,Y4,Y5,Y6,Y7,Y8]).
