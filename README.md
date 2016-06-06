@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=plastic)
 
 # Introduction
-8QueenProlog is my assignment at college about 8-Queen Problem 
+8QueenProlog is my assignment at college. Solving the 8-Queen Problem with 3 different ways on B-ProLog.
 > Course: MCS, HCMUT <br />
 > Subject: Logic Programmingand Constraints<br />
 > Instructor: [Distinguished Instructor. Assoc. Prof. Dr. Duong Tuan Anh](http://cse.hcmut.edu.vn/~dtanh)
